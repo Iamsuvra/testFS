@@ -8,6 +8,14 @@
   "browser_action": {
     "default_icon": "icon16.png"
   },
+
+
+  "permissions": [
+    "tabs",
+    "http://www.amazon.com/*",
+    
+    "unlimitedStorage"
+  ],
   
   "content_scripts": [
     {

@@ -14,7 +14,7 @@
       "matches": [ "https://www.amazon.com/*"],
       
       "css": ["content.css"],
-      "js": ["jQuery.js","content.js" ]
+      "js": ["jquery-3.3.1.min.js","content.js" ]
     }
   ]
 
